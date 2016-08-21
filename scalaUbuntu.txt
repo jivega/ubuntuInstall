@@ -8,3 +8,7 @@ sudo apt-get install sbt
 
 sbt about
 
+#Install Scala IDE Eclipse from http://scala-ide.org/download/sdk.html
+http://downloads.typesafe.com/scalaide-pack/4.4.1-vfinal-luna-211-20160504/scala-SDK-4.4.1-vfinal-2.11-linux.gtk.x86_64.tar.gz
+
+
